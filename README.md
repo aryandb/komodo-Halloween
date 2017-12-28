@@ -1,5 +1,3 @@
-# komodo-Dracula
-
-The popular Dracula theme now for komodo.
+# komodo-Halloween
 
 ![screenshot](screenshot.png)
